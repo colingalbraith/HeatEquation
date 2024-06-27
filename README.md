@@ -1,4 +1,4 @@
-
+Below are some simulation examples with varying constant forcing terms - in differing locations and boundary conditions.
 
 https://github.com/colingalbraith/HeatEquation/assets/146497900/81bd469e-12fa-4669-899f-43c6793b1abb
 
