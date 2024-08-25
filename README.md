@@ -1,23 +1,38 @@
 # Heat Equation Simulation with Neumann Boundary Conditions
 
 This simulation models heat conduction through a medium using the **heat equation** with Neumann boundary conditions. 
-Below are some simulation examples with varying constant forcing terms in different locations and boundary conditions:
+Below are some simulations with a constant forcing term in various locations:
+
+Chess Board:
+---
 
 https://github.com/colingalbraith/HeatEquation/assets/146497900/81bd469e-12fa-4669-899f-43c6793b1abb
 
+---
 
+Grid of Dots:
+---
 
 https://github.com/colingalbraith/HeatEquation/assets/146497900/ae6cde21-6b81-4d25-b428-38a188eae25d
 
+---
 
+Random:
+---
 
 https://github.com/colingalbraith/HeatEquation/assets/146497900/27504756-5133-4c4c-b6d2-c120bd986e80
 
+---
 
+Center:
+---
 
 https://github.com/colingalbraith/HeatEquation/assets/146497900/d102656c-1935-4e6a-9179-d3f6dea37dde
 
+---
 
+Boundary:
+---
 
 https://github.com/colingalbraith/HeatEquation/assets/146497900/9e5c9e8a-a43a-42d0-a31d-0a6ba2edd6da
 
