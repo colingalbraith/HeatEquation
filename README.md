@@ -1,7 +1,6 @@
 # Heat Equation Simulation with Neumann Boundary Conditions
 
-This repository contains a simulation of the heat equation in both 1D and 2D with Neumann boundary conditions and a constant heat source term. This program allows users to explore how heat propagates through a medium while applying a constant forcing term at the center of the domain.
-
+This simulation models heat conduction through a medium using the **heat equation** with Neumann boundary conditions. 
 Below are some simulation examples with varying constant forcing terms in different locations and boundary conditions:
 
 https://github.com/colingalbraith/HeatEquation/assets/146497900/81bd469e-12fa-4669-899f-43c6793b1abb
@@ -26,7 +25,6 @@ https://github.com/colingalbraith/HeatEquation/assets/146497900/9e5c9e8a-a43a-42
 
 ## Technical Overview
 
-This simulation models heat conduction through a medium using the **heat equation** with Neumann boundary conditions. The heat equation describes how heat diffuses through a material over time, and in this case, we apply Neumann boundary conditions, meaning the derivative of the temperature with respect to space is zero at the boundaries. This simulates insulation at the boundaries, meaning no heat is allowed to enter or leave the domain.
 
 ### Neumann Boundary Conditions
 The Neumann boundary condition imposes that the gradient (or flux) of the temperature at the boundaries of the domain is zero. Mathematically, this means:
